@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soulether62 
 - 👀 I’m interested in Reading web and light novels
 - 🌱 I’m currently learning python
-- Recently started with web development
+- Recently started learnig web development
 - and thats all
 
 <!---
